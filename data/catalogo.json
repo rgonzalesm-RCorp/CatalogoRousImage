@@ -13,28 +13,28 @@
   ],
   "productos": [
     {
-      "id": "c42c0659-82eb-404b-ad06-084dd170bee7",
-      "nombre": "BATERIA 10000 MA",
-      "descripcion": "",
-      "precio": 560,
-      "categoria": "CARGADOR PORTATIL",
-      "imagenes": [
-        "/data/images/cromo-8e3e41de.png"
-      ],
-      "activo": true,
-      "fechaCreacion": "2026-06-02T04:17:18.155Z"
-    },
-    {
       "id": "1c632bd7-7a1c-446c-af7b-38564afd0887",
       "nombre": "BILLETERA",
       "descripcion": "",
       "precio": 180,
       "categoria": "General",
       "imagenes": [
-        "/data/images/whatsapp-image-2026-05-12-at-19-55-42-37845b68.jpeg",
-        "/data/images/whatsapp-image-2026-05-01-at-22-55-50-3059c9bd.jpeg",
-        "/data/images/08676-01-34d1e643.jpg",
-        "/data/images/imagen-9f00af33.png"
+        {
+          "url": "/data/images/whatsapp-image-2026-05-12-at-19-55-42-37845b68.jpeg",
+          "publicId": ""
+        },
+        {
+          "url": "/data/images/whatsapp-image-2026-05-01-at-22-55-50-3059c9bd.jpeg",
+          "publicId": ""
+        },
+        {
+          "url": "/data/images/08676-01-34d1e643.jpg",
+          "publicId": ""
+        },
+        {
+          "url": "/data/images/imagen-9f00af33.png",
+          "publicId": ""
+        }
       ],
       "activo": true,
       "fechaCreacion": "2026-06-02T03:48:22.620Z"
@@ -46,8 +46,14 @@
       "precio": 300,
       "categoria": "General",
       "imagenes": [
-        "/data/images/whatsapp-image-2026-05-01-at-22-55-25-24d28f16.jpeg",
-        "/data/images/sentinel-3e075035.png"
+        {
+          "url": "/data/images/whatsapp-image-2026-05-01-at-22-55-25-24d28f16.jpeg",
+          "publicId": ""
+        },
+        {
+          "url": "/data/images/sentinel-3e075035.png",
+          "publicId": ""
+        }
       ],
       "activo": true,
       "fechaCreacion": "2026-06-02T03:40:22.921Z"
