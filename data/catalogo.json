@@ -9,9 +9,25 @@
   },
   "categorias": [
     "GENERAL",
-    "BILLETERA"
+    "BILLETERA",
+    "CARTERA"
   ],
   "productos": [
+    {
+      "id": "3e9507d9-3767-4c0a-89e2-2b4dec2c112b",
+      "nombre": "Cartera de mujer",
+      "descripcion": "",
+      "precio": 190,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780377738/catalogo-productos/d8dc2816-1dc8-41ef-aa24-52ae777b764b-1780377738026.jpg",
+          "publicId": "catalogo-productos/d8dc2816-1dc8-41ef-aa24-52ae777b764b-1780377738026"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-02T05:22:19.427Z"
+    },
     {
       "id": "eb200706-1ec6-4781-b7ea-48ce51fd55bb",
       "nombre": "BILLETERA PARA HOMBRE FOSSIL",
