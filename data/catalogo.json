@@ -9,7 +9,24 @@
   },
   "categorias": [
     "General",
-    "CARGADOR PORTATIL"
+    "CARGADOR PORTATIL",
+    "BILLETERA"
   ],
-  "productos": []
+  "productos": [
+    {
+      "id": "eb200706-1ec6-4781-b7ea-48ce51fd55bb",
+      "nombre": "BILLETERA PARA HOMBRE",
+      "descripcion": "",
+      "precio": 120,
+      "categoria": "BILLETERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780375159/catalogo-productos/bileltera-negra-fossil-1780375626729.webp",
+          "publicId": "catalogo-productos/bileltera-negra-fossil-1780375626729"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-02T04:47:09.418Z"
+    }
+  ]
 }
