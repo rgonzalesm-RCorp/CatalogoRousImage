@@ -8,9 +8,22 @@
     "logo": "/data/images/8204ae11ce480b588235a13901feb3df-tplv-tiktokx-cropcenter-1080-1080-c0b0c646.jpeg"
   },
   "categorias": [
-    "General"
+    "General",
+    "CARGADOR PORTATIL"
   ],
   "productos": [
+    {
+      "id": "c42c0659-82eb-404b-ad06-084dd170bee7",
+      "nombre": "BATERIA 10000 MA",
+      "descripcion": "",
+      "precio": 560,
+      "categoria": "CARGADOR PORTATIL",
+      "imagenes": [
+        "/data/images/cromo-8e3e41de.png"
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-02T04:17:18.155Z"
+    },
     {
       "id": "1c632bd7-7a1c-446c-af7b-38564afd0887",
       "nombre": "BILLETERA",
