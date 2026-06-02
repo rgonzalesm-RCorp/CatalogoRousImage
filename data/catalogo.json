@@ -13,33 +13,6 @@
   ],
   "productos": [
     {
-      "id": "1c632bd7-7a1c-446c-af7b-38564afd0887",
-      "nombre": "BILLETERA",
-      "descripcion": "",
-      "precio": 180,
-      "categoria": "General",
-      "imagenes": [
-        {
-          "url": "/data/images/whatsapp-image-2026-05-12-at-19-55-42-37845b68.jpeg",
-          "publicId": ""
-        },
-        {
-          "url": "/data/images/whatsapp-image-2026-05-01-at-22-55-50-3059c9bd.jpeg",
-          "publicId": ""
-        },
-        {
-          "url": "/data/images/08676-01-34d1e643.jpg",
-          "publicId": ""
-        },
-        {
-          "url": "/data/images/imagen-9f00af33.png",
-          "publicId": ""
-        }
-      ],
-      "activo": true,
-      "fechaCreacion": "2026-06-02T03:48:22.620Z"
-    },
-    {
       "id": "e7ca5c42-ab5e-46c7-8268-e500bdeecf76",
       "nombre": "Cartera Coah",
       "descripcion": "",
