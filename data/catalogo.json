@@ -1,11 +1,11 @@
 {
   "empresa": {
-    "nombre": "Mi Catalogo",
+    "nombre": "Tienda Rous",
     "descripcion": "Catalogo Digital",
-    "telefono": "60034794",
-    "whatsapp": "60034794",
-    "direccion": "",
-    "logo": ""
+    "telefono": "70972055",
+    "whatsapp": "70972055",
+    "direccion": "Santa Cruz - Bolivia",
+    "logo": "/data/images/8204ae11ce480b588235a13901feb3df-tplv-tiktokx-cropcenter-1080-1080-c0b0c646.jpeg"
   },
   "categorias": [
     "General"
