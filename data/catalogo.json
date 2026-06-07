@@ -14,33 +14,6 @@
   ],
   "productos": [
     {
-      "id": "18d56d65-d3bd-441b-b1c0-2f0daf99327c",
-      "nombre": "Coach",
-      "descripcion": "Cartera coach al por mayor 250",
-      "precio": 300,
-      "categoria": "CARTERA",
-      "imagenes": [
-        {
-          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780767637/catalogo-productos/77e4a0c6-a13c-4fac-a969-cb4c7872d1c1-1780767637289.jpg",
-          "publicId": "catalogo-productos/77e4a0c6-a13c-4fac-a969-cb4c7872d1c1-1780767637289"
-        },
-        {
-          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780767638/catalogo-productos/55ce07d1-51cb-4651-8211-d6dea2a75b58-1780767638380.jpg",
-          "publicId": "catalogo-productos/55ce07d1-51cb-4651-8211-d6dea2a75b58-1780767638380"
-        },
-        {
-          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780767637/catalogo-productos/77e4a0c6-a13c-4fac-a969-cb4c7872d1c1-1780767637592.jpg",
-          "publicId": "catalogo-productos/77e4a0c6-a13c-4fac-a969-cb4c7872d1c1-1780767637592"
-        },
-        {
-          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780767638/catalogo-productos/2e1d449b-e37b-4544-b674-8b0671e52073-1780767638285.jpg",
-          "publicId": "catalogo-productos/2e1d449b-e37b-4544-b674-8b0671e52073-1780767638285"
-        }
-      ],
-      "activo": true,
-      "fechaCreacion": "2026-06-06T17:40:39.486Z"
-    },
-    {
       "id": "03d66d27-8ade-40a8-89f0-3aec612e7ba5",
       "nombre": "BAGUETTE MEDIA LUNA COACH",
       "descripcion": "",
