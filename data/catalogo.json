@@ -14,6 +14,21 @@
   ],
   "productos": [
     {
+      "id": "0b5d761f-6eb2-4f09-b9e2-8c4feede06ab",
+      "nombre": "BOLSO OFICIO LV",
+      "descripcion": "",
+      "precio": 400,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807090/catalogo-productos/whatsapp-image-2026-06-07-at-12-32-14-am-1780807090328.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-32-14-am-1780807090328"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-07T04:38:11.174Z"
+    },
+    {
       "id": "b2860c95-d4a4-4e1f-860d-ac568ad3d590",
       "nombre": "COACH TAMAÑO OFICIO",
       "descripcion": "calidad premium viene bolsa de regalo  , certificación ,funda .",
