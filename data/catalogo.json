@@ -14,6 +14,29 @@
   ],
   "productos": [
     {
+      "id": "ddc8a497-02f3-4614-a2be-bd0b7e322093",
+      "nombre": "COQUITO COCAH",
+      "descripcion": "calidad premium viene caja , certificación ,funda .",
+      "precio": 370,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807432/catalogo-productos/whatsapp-image-2026-06-07-at-12-32-10-am-1-1780807432177.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-32-10-am-1-1780807432177"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807432/catalogo-productos/whatsapp-image-2026-06-07-at-12-32-10-am-1780807432180.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-32-10-am-1780807432180"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807432/catalogo-productos/whatsapp-image-2026-06-07-at-12-32-09-am-2-1780807432172.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-32-09-am-2-1780807432172"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-07T04:43:53.051Z"
+    },
+    {
       "id": "488ccd09-0879-4561-893f-df1084523c03",
       "nombre": "GOTITA CD",
       "descripcion": "calidad premium viene caja , certificación ,funda .",
