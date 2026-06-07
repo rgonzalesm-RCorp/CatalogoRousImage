@@ -14,6 +14,37 @@
   ],
   "productos": [
     {
+      "id": "f09d4434-e7d8-486a-95d4-a0baf6c4a772",
+      "nombre": "BILLETERA LV",
+      "descripcion": "",
+      "precio": 139.98,
+      "categoria": "BILLETERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807655/catalogo-productos/whatsapp-image-2026-06-07-at-12-44-49-am-1-1780807655432.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-44-49-am-1-1780807655432"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807655/catalogo-productos/whatsapp-image-2026-06-07-at-12-44-48-am-2-1780807655012.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-44-48-am-2-1780807655012"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807655/catalogo-productos/whatsapp-image-2026-06-07-at-12-44-48-am-1-1780807655300.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-44-48-am-1-1780807655300"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807655/catalogo-productos/whatsapp-image-2026-06-07-at-12-44-48-am-1780807655283.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-44-48-am-1780807655283"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807654/catalogo-productos/whatsapp-image-2026-06-07-at-12-44-47-am-1780807654914.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-44-47-am-1780807654914"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-07T04:47:36.228Z"
+    },
+    {
       "id": "0884b336-9be8-4d49-9445-af43a62c39f7",
       "nombre": "CARTERA MIU MIU",
       "descripcion": "calidad premium viene caja , certificación ,funda .",
