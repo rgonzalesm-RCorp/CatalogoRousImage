@@ -14,6 +14,33 @@
   ],
   "productos": [
     {
+      "id": "df005a75-a8d0-4d16-9b2d-dfd42149117c",
+      "nombre": "CARTERA DE MANO COACH",
+      "descripcion": "calidad premium viene bolsa de regalo , certificación ,funda .",
+      "precio": 300,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807188/catalogo-productos/whatsapp-image-2026-06-07-at-12-32-15-am-1-1780807188511.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-32-15-am-1-1780807188511"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807188/catalogo-productos/whatsapp-image-2026-06-07-at-12-32-15-am-1780807188524.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-32-15-am-1780807188524"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807188/catalogo-productos/whatsapp-image-2026-06-07-at-12-32-14-am-2-1780807188623.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-32-14-am-2-1780807188623"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807188/catalogo-productos/whatsapp-image-2026-06-07-at-12-32-14-am-1-1780807188612.jpg",
+          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-32-14-am-1-1780807188612"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-07T04:39:49.537Z"
+    },
+    {
       "id": "0b5d761f-6eb2-4f09-b9e2-8c4feede06ab",
       "nombre": "BOLSO OFICIO LV",
       "descripcion": "",
