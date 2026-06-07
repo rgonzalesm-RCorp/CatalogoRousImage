@@ -12,29 +12,5 @@
     "BILLETERA",
     "CARTERA"
   ],
-  "productos": [
-    {
-      "id": "03d66d27-8ade-40a8-89f0-3aec612e7ba5",
-      "nombre": "BAGUETTE MEDIA LUNA COACH",
-      "descripcion": "",
-      "precio": 300,
-      "categoria": "CARTERA",
-      "imagenes": [
-        {
-          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780378781/catalogo-productos/img-1213-1780378781521.jpg",
-          "publicId": "catalogo-productos/img-1213-1780378781521"
-        },
-        {
-          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780378781/catalogo-productos/img-1212-1780378781424.jpg",
-          "publicId": "catalogo-productos/img-1212-1780378781424"
-        },
-        {
-          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780378781/catalogo-productos/img-1211-1780378781327.jpg",
-          "publicId": "catalogo-productos/img-1211-1780378781327"
-        }
-      ],
-      "activo": true,
-      "fechaCreacion": "2026-06-02T05:39:42.590Z"
-    }
-  ]
+  "productos": []
 }
