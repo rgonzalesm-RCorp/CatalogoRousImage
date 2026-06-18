@@ -14,6 +14,29 @@
   ],
   "productos": [
     {
+      "id": "279e591b-c7c2-490a-a439-67ebedfabb1c",
+      "nombre": "Baguette PRADA",
+      "descripcion": "Caja, funda, certificación",
+      "precio": 300,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750637/catalogo-productos/8d446a25-a506-4717-b90d-6c0103cca60d-1781750637928.jpg",
+          "publicId": "catalogo-productos/8d446a25-a506-4717-b90d-6c0103cca60d-1781750637928"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750637/catalogo-productos/37623ee4-a530-4119-9d0b-e1405616e6e2-1781750637763.jpg",
+          "publicId": "catalogo-productos/37623ee4-a530-4119-9d0b-e1405616e6e2-1781750637763"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750637/catalogo-productos/9e2d2619-020b-4fe5-9fdf-22200b697f8b-1781750637816.jpg",
+          "publicId": "catalogo-productos/9e2d2619-020b-4fe5-9fdf-22200b697f8b-1781750637816"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-18T02:43:58.721Z"
+    },
+    {
       "id": "fe095f42-a6b7-4506-8995-fe3c0e4c49be",
       "nombre": "Coach de 3 piezas",
       "descripcion": "",
