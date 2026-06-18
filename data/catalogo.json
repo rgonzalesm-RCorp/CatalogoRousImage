@@ -14,6 +14,29 @@
   ],
   "productos": [
     {
+      "id": "1541d47a-8a2d-4744-afa5-be6b166ee512",
+      "nombre": "Cartera LV",
+      "descripcion": "Caja",
+      "precio": 500,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750873/catalogo-productos/ff45894c-fb41-40d1-b508-309044795710-1781750873287.jpg",
+          "publicId": "catalogo-productos/ff45894c-fb41-40d1-b508-309044795710-1781750873287"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750873/catalogo-productos/0ab7079a-a28f-475b-b584-3c78a0639f66-1781750873318.jpg",
+          "publicId": "catalogo-productos/0ab7079a-a28f-475b-b584-3c78a0639f66-1781750873318"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750873/catalogo-productos/caab9bd7-c7e7-4fd3-9110-bd1211885dee-1781750873309.jpg",
+          "publicId": "catalogo-productos/caab9bd7-c7e7-4fd3-9110-bd1211885dee-1781750873309"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-18T02:47:54.182Z"
+    },
+    {
       "id": "279e591b-c7c2-490a-a439-67ebedfabb1c",
       "nombre": "Baguette PRADA",
       "descripcion": "Caja, funda, certificación",
