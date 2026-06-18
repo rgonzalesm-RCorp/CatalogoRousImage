@@ -14,6 +14,33 @@
   ],
   "productos": [
     {
+      "id": "cdee070a-5c9e-47f3-95a7-82a01bcbc2ab",
+      "nombre": "Lacoste oficio",
+      "descripcion": "",
+      "precio": 250,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750976/catalogo-productos/89379121-dc03-4d67-a21e-1c9c7ba2c49b-1781750975941.jpg",
+          "publicId": "catalogo-productos/89379121-dc03-4d67-a21e-1c9c7ba2c49b-1781750975941"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750975/catalogo-productos/42bbb6fa-b191-42ae-8bd6-b0841f690615-1781750975767.jpg",
+          "publicId": "catalogo-productos/42bbb6fa-b191-42ae-8bd6-b0841f690615-1781750975767"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750976/catalogo-productos/2d3f2c5b-b36c-4955-9e33-6d7ab94ad879-1781750976049.jpg",
+          "publicId": "catalogo-productos/2d3f2c5b-b36c-4955-9e33-6d7ab94ad879-1781750976049"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750976/catalogo-productos/9cbf68f8-9263-423e-b763-5856d0b79053-1781750976162.jpg",
+          "publicId": "catalogo-productos/9cbf68f8-9263-423e-b763-5856d0b79053-1781750976162"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-18T02:49:37.170Z"
+    },
+    {
       "id": "1541d47a-8a2d-4744-afa5-be6b166ee512",
       "nombre": "Cartera LV",
       "descripcion": "Caja",
