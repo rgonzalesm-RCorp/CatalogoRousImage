@@ -14,6 +14,25 @@
   ],
   "productos": [
     {
+      "id": "61ec28f3-3d90-438d-98a4-5cd587127d93",
+      "nombre": "Chanel 😍",
+      "descripcion": "Caja,funda,certificación",
+      "precio": 350,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750484/catalogo-productos/img-8117-1781750484666.jpg",
+          "publicId": "catalogo-productos/img-8117-1781750484666"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781750485/catalogo-productos/img-8116-1781750485650.jpg",
+          "publicId": "catalogo-productos/img-8116-1781750485650"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-18T02:41:26.772Z"
+    },
+    {
       "id": "f09d4434-e7d8-486a-95d4-a0baf6c4a772",
       "nombre": "BILLETERA LV",
       "descripcion": "",
