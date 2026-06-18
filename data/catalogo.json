@@ -150,6 +150,18 @@
         {
           "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780807654/catalogo-productos/whatsapp-image-2026-06-07-at-12-44-47-am-1780807654914.jpg",
           "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-44-47-am-1780807654914"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781751152/catalogo-productos/img-8128-1781751152208.png",
+          "publicId": "catalogo-productos/img-8128-1781751152208"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781751152/catalogo-productos/img-8127-1781751152589.png",
+          "publicId": "catalogo-productos/img-8127-1781751152589"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1781751152/catalogo-productos/img-8126-1781751152471.png",
+          "publicId": "catalogo-productos/img-8126-1781751152471"
         }
       ],
       "activo": true,
