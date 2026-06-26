@@ -14,6 +14,33 @@
   ],
   "productos": [
     {
+      "id": "980589df-8a68-4da4-8a63-30d9aff05929",
+      "nombre": "Cartera miu miu",
+      "descripcion": "Caja , funda, certificación",
+      "precio": 290,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782438164/catalogo-productos/0ccda5da-a879-4665-8842-8ba19586554e-1782438164263.jpg",
+          "publicId": "catalogo-productos/0ccda5da-a879-4665-8842-8ba19586554e-1782438164263"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782438164/catalogo-productos/df760734-eec2-4ada-9bf4-11779404d45e-1782438164556.jpg",
+          "publicId": "catalogo-productos/df760734-eec2-4ada-9bf4-11779404d45e-1782438164556"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782438164/catalogo-productos/d4830d19-b728-49ad-b993-63be29271729-1782438164629.jpg",
+          "publicId": "catalogo-productos/d4830d19-b728-49ad-b993-63be29271729-1782438164629"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782438164/catalogo-productos/efa0d2bc-dd30-43ec-b88d-cbca48f74f17-1782438164753.jpg",
+          "publicId": "catalogo-productos/efa0d2bc-dd30-43ec-b88d-cbca48f74f17-1782438164753"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-26T01:42:45.974Z"
+    },
+    {
       "id": "39b6cd9e-9f84-4d8b-b7f4-b27490bbb24e",
       "nombre": "Baguette coach",
       "descripcion": "Caja , funda, certificación.",
