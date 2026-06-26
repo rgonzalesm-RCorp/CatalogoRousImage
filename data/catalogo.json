@@ -14,6 +14,29 @@
   ],
   "productos": [
     {
+      "id": "346ca0f8-e57f-4a00-bf82-0ca84f834091",
+      "nombre": "Baguette Prada",
+      "descripcion": "Caja y bolsa de regalo de la línea",
+      "precio": 370,
+      "categoria": "GENERAL",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782437651/catalogo-productos/269b7dcd-22b6-4937-8cd2-a6364e31a251-e6ddb740-de93-4988-91f0-65d579edc85d-1782437651609.jpg",
+          "publicId": "catalogo-productos/269b7dcd-22b6-4937-8cd2-a6364e31a251-e6ddb740-de93-4988-91f0-65d579edc85d-1782437651609"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782437651/catalogo-productos/1d0fade9-bf11-403f-a7ab-52fb21091d69-9358756d-f25e-4c8c-87fb-d9e72de05442-1782437651514.jpg",
+          "publicId": "catalogo-productos/1d0fade9-bf11-403f-a7ab-52fb21091d69-9358756d-f25e-4c8c-87fb-d9e72de05442-1782437651514"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782437651/catalogo-productos/e197cfaf-bbea-4ebc-ad7f-c8236ceb0a9e-ff116349-3cf6-4734-805a-77fbee84c30a-1782437651759.jpg",
+          "publicId": "catalogo-productos/e197cfaf-bbea-4ebc-ad7f-c8236ceb0a9e-ff116349-3cf6-4734-805a-77fbee84c30a-1782437651759"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-26T01:34:12.848Z"
+    },
+    {
       "id": "cdee070a-5c9e-47f3-95a7-82a01bcbc2ab",
       "nombre": "Lacoste oficio",
       "descripcion": "",
