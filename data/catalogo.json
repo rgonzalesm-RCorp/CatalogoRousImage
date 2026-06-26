@@ -14,6 +14,25 @@
   ],
   "productos": [
     {
+      "id": "39b6cd9e-9f84-4d8b-b7f4-b27490bbb24e",
+      "nombre": "Baguette coach",
+      "descripcion": "Caja , funda, certificación.",
+      "precio": 220,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782438072/catalogo-productos/90135500-5fe7-4e09-9db2-2a3394bae8af-1782438071970.jpg",
+          "publicId": "catalogo-productos/90135500-5fe7-4e09-9db2-2a3394bae8af-1782438071970"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782438073/catalogo-productos/f29e14af-de2b-4e9b-b291-79ece54e48a8-1782438072959.jpg",
+          "publicId": "catalogo-productos/f29e14af-de2b-4e9b-b291-79ece54e48a8-1782438072959"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-26T01:41:14.153Z"
+    },
+    {
       "id": "346ca0f8-e57f-4a00-bf82-0ca84f834091",
       "nombre": "Baguette Prada",
       "descripcion": "Caja y bolsa de regalo de la línea",
