@@ -14,6 +14,29 @@
   ],
   "productos": [
     {
+      "id": "2356f825-273b-4c96-b906-b7079a2d17ca",
+      "nombre": "Chanel tamaño agenda",
+      "descripcion": "Caja , funda, certificación",
+      "precio": 370,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782438227/catalogo-productos/bc6b2828-2996-4845-99f4-b580b05db9df-1782438227186.jpg",
+          "publicId": "catalogo-productos/bc6b2828-2996-4845-99f4-b580b05db9df-1782438227186"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782438227/catalogo-productos/25e7d316-b426-49a0-b6bc-d343508b760a-1782438227179.jpg",
+          "publicId": "catalogo-productos/25e7d316-b426-49a0-b6bc-d343508b760a-1782438227179"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1782438227/catalogo-productos/0a923526-3a13-4dd5-be4d-3dd15c91ecd1-1782438227425.jpg",
+          "publicId": "catalogo-productos/0a923526-3a13-4dd5-be4d-3dd15c91ecd1-1782438227425"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-06-26T01:43:48.942Z"
+    },
+    {
       "id": "980589df-8a68-4da4-8a63-30d9aff05929",
       "nombre": "Cartera miu miu",
       "descripcion": "Caja , funda, certificación",
