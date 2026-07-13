@@ -14,6 +14,33 @@
   ],
   "productos": [
     {
+      "id": "ce6f3003-6998-4c30-af3d-55887b73d400",
+      "nombre": "Baguette coach",
+      "descripcion": "Caja, funda, certificación",
+      "precio": 300,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1783959322/catalogo-productos/5638d735-38f9-4122-86ac-ec5347383f24-1783959322790.jpg",
+          "publicId": "catalogo-productos/5638d735-38f9-4122-86ac-ec5347383f24-1783959322790"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1783959322/catalogo-productos/9562bd40-e1af-421a-81b8-24c3c14ab065-1783959322409.jpg",
+          "publicId": "catalogo-productos/9562bd40-e1af-421a-81b8-24c3c14ab065-1783959322409"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1783959323/catalogo-productos/d5328c86-4eb9-4195-a5fd-d81bb871dbc3-1783959323116.jpg",
+          "publicId": "catalogo-productos/d5328c86-4eb9-4195-a5fd-d81bb871dbc3-1783959323116"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1783959322/catalogo-productos/f49e119b-e4f4-499c-84d0-a089f7dc4b87-1783959322465.jpg",
+          "publicId": "catalogo-productos/f49e119b-e4f4-499c-84d0-a089f7dc4b87-1783959322465"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-07-13T16:15:30.070Z"
+    },
+    {
       "id": "178b5ce7-c5a7-4ba8-be6c-c86ca060febf",
       "nombre": "Baguette YSL",
       "descripcion": "Caja , funda , certificación",
