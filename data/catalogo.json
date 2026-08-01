@@ -14,6 +14,21 @@
   ],
   "productos": [
     {
+      "id": "f87dbd7d-fc57-4e60-9fd0-4dd3faab9d79",
+      "nombre": "Coach blanca",
+      "descripcion": "Caja,funda,certificación y de accesorios su cereza 🍒",
+      "precio": 450,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785596845/catalogo-productos/8f146f5c-96a5-4eba-a5dc-8470334ab16e-1785596845843.jpg",
+          "publicId": "catalogo-productos/8f146f5c-96a5-4eba-a5dc-8470334ab16e-1785596845843"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-08-01T15:07:26.803Z"
+    },
+    {
       "id": "10f09bf3-7a5b-4b47-8e05-79330e1d118c",
       "nombre": "Clásico baguette",
       "descripcion": "Bolsa de regalo de la marca ,funda,certificación 🍒",
