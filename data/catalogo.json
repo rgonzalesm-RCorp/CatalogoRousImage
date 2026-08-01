@@ -14,6 +14,37 @@
   ],
   "productos": [
     {
+      "id": "10f09bf3-7a5b-4b47-8e05-79330e1d118c",
+      "nombre": "Clásico baguette",
+      "descripcion": "Caja,funda,certificación 🍒",
+      "precio": 390,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785596735/catalogo-productos/img-0508-1785596735267.jpg",
+          "publicId": "catalogo-productos/img-0508-1785596735267"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785596736/catalogo-productos/img-0184-1785596735771.jpg",
+          "publicId": "catalogo-productos/img-0184-1785596735771"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785596737/catalogo-productos/img-0183-1785596737698.jpg",
+          "publicId": "catalogo-productos/img-0183-1785596737698"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785596739/catalogo-productos/img-0175-1785596739190.jpg",
+          "publicId": "catalogo-productos/img-0175-1785596739190"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785596739/catalogo-productos/img-0179-1785596739792.jpg",
+          "publicId": "catalogo-productos/img-0179-1785596739792"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-08-01T15:05:40.777Z"
+    },
+    {
       "id": "a9dfc651-f99b-4c53-88e0-4f6b6023c6f8",
       "nombre": "Besos coach baguette",
       "descripcion": "Caja,funda,certificación y 🍒 cereza",
