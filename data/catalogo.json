@@ -14,6 +14,25 @@
   ],
   "productos": [
     {
+      "id": "a9dfc651-f99b-4c53-88e0-4f6b6023c6f8",
+      "nombre": "Besos coach baguette",
+      "descripcion": "Caja,funda,certificación y 🍒 cereza",
+      "precio": 390,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785596546/catalogo-productos/img-0514-1785596546307.jpg",
+          "publicId": "catalogo-productos/img-0514-1785596546307"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785596546/catalogo-productos/img-0513-1785596546910.jpg",
+          "publicId": "catalogo-productos/img-0513-1785596546910"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-08-01T15:02:28.139Z"
+    },
+    {
       "id": "38d87145-f3c3-4c2a-8b50-59526144b708",
       "nombre": "Baguette rosada coach",
       "descripcion": "Caja ,funda,certificación y cereza 🍒",
