@@ -14,6 +14,16 @@
   ],
   "productos": [
     {
+      "id": "9b0658f2-6caf-4587-a087-444b760bf84d",
+      "nombre": "Diésel",
+      "descripcion": "",
+      "precio": 400,
+      "categoria": "CARTERA",
+      "imagenes": [],
+      "activo": true,
+      "fechaCreacion": "2026-08-03T03:28:43.029Z"
+    },
+    {
       "id": "f87dbd7d-fc57-4e60-9fd0-4dd3faab9d79",
       "nombre": "Coach blanca",
       "descripcion": "Caja,funda,certificación y de accesorios su cereza 🍒",
