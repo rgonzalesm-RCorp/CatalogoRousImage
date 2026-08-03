@@ -580,21 +580,6 @@
       ],
       "activo": true,
       "fechaCreacion": "2026-06-07T04:32:40.543Z"
-    },
-    {
-      "id": "4df1aa6c-b097-4e39-9e84-09776903a34f",
-      "nombre": "Baguette coach",
-      "descripcion": "calidad premium viene caja , certificación ,funda .",
-      "precio": 300,
-      "categoria": "CARTERA",
-      "imagenes": [
-        {
-          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1780806417/catalogo-productos/whatsapp-image-2026-06-07-at-12-25-05-am-1780806417768.jpg",
-          "publicId": "catalogo-productos/whatsapp-image-2026-06-07-at-12-25-05-am-1780806417768"
-        }
-      ],
-      "activo": true,
-      "fechaCreacion": "2026-06-07T04:26:58.839Z"
     }
   ]
 }
