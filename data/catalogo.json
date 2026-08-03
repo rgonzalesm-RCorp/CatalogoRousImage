@@ -19,7 +19,28 @@
       "descripcion": "",
       "precio": 400,
       "categoria": "CARTERA",
-      "imagenes": [],
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785727829/catalogo-productos/b53bb101-ef6a-4b5d-83a0-1e4c441ef41e-1785727829330.jpg",
+          "publicId": "catalogo-productos/b53bb101-ef6a-4b5d-83a0-1e4c441ef41e-1785727829330"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785727828/catalogo-productos/9c1f8585-0af0-4dca-8dc6-f1e037963589-1785727828066.jpg",
+          "publicId": "catalogo-productos/9c1f8585-0af0-4dca-8dc6-f1e037963589-1785727828066"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785727827/catalogo-productos/0b151294-de0f-4041-b8b4-7bac84db3d6d-1785727827917.jpg",
+          "publicId": "catalogo-productos/0b151294-de0f-4041-b8b4-7bac84db3d6d-1785727827917"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785727828/catalogo-productos/52b91f20-6e94-49b9-8c0d-f2a04444ab74-1785727828159.jpg",
+          "publicId": "catalogo-productos/52b91f20-6e94-49b9-8c0d-f2a04444ab74-1785727828159"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785727828/catalogo-productos/af9563f8-9258-4408-8769-a1e4610ab28c-1785727828262.jpg",
+          "publicId": "catalogo-productos/af9563f8-9258-4408-8769-a1e4610ab28c-1785727828262"
+        }
+      ],
       "activo": true,
       "fechaCreacion": "2026-08-03T03:28:43.029Z"
     },
