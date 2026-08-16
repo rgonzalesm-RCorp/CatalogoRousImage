@@ -106,21 +106,6 @@
       "fechaCreacion": "2026-08-01T15:02:28.139Z"
     },
     {
-      "id": "38d87145-f3c3-4c2a-8b50-59526144b708",
-      "nombre": "Baguette rosada coach",
-      "descripcion": "Caja ,funda,certificación y cereza 🍒",
-      "precio": 450,
-      "categoria": "CARTERA",
-      "imagenes": [
-        {
-          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1785596471/catalogo-productos/img-0506-1785596471589.jpg",
-          "publicId": "catalogo-productos/img-0506-1785596471589"
-        }
-      ],
-      "activo": true,
-      "fechaCreacion": "2026-08-01T15:01:12.856Z"
-    },
-    {
       "id": "ce6f3003-6998-4c30-af3d-55887b73d400",
       "nombre": "Baguette coach",
       "descripcion": "Caja, funda, certificación",
