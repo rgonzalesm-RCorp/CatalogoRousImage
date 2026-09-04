@@ -14,6 +14,29 @@
   ],
   "productos": [
     {
+      "id": "ebc3fcf8-a7e5-46c3-866e-ebbc68ab2c41",
+      "nombre": "Coach en colores enteros",
+      "descripcion": "Caja , funda y certificación con sus accesorios",
+      "precio": 470,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1788548014/catalogo-productos/img-1256-1788548013983.jpg",
+          "publicId": "catalogo-productos/img-1256-1788548013983"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1788548016/catalogo-productos/img-1257-1788548016869.jpg",
+          "publicId": "catalogo-productos/img-1257-1788548016869"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1788548016/catalogo-productos/img-1255-1788548016043.jpg",
+          "publicId": "catalogo-productos/img-1255-1788548016043"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-09-04T18:53:38.097Z"
+    },
+    {
       "id": "13ac0cc0-e3fd-4ed1-a3ce-9bd78312c38e",
       "nombre": "Coach media luna",
       "descripcion": "Caja , funda y cereza 🍒",
