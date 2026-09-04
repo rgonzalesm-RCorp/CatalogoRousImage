@@ -14,6 +14,37 @@
   ],
   "productos": [
     {
+      "id": "13ac0cc0-e3fd-4ed1-a3ce-9bd78312c38e",
+      "nombre": "Coach media luna",
+      "descripcion": "Caja , funda y cereza 🍒",
+      "precio": 320,
+      "categoria": "CARTERA",
+      "imagenes": [
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1788547622/catalogo-productos/31a7492f-4306-40da-9c9e-e5adf8aaa054-1788547622223.jpg",
+          "publicId": "catalogo-productos/31a7492f-4306-40da-9c9e-e5adf8aaa054-1788547622223"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1788547617/catalogo-productos/9b252e31-0ba5-4f33-9327-2c0bf4b94627-1788547617164.jpg",
+          "publicId": "catalogo-productos/9b252e31-0ba5-4f33-9327-2c0bf4b94627-1788547617164"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1788547624/catalogo-productos/2fa2742e-04e2-47be-9769-ecbb81a498b1-1788547624194.jpg",
+          "publicId": "catalogo-productos/2fa2742e-04e2-47be-9769-ecbb81a498b1-1788547624194"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1788547623/catalogo-productos/124c5f18-f880-46fc-9009-dd59b7bbc714-1788547623536.jpg",
+          "publicId": "catalogo-productos/124c5f18-f880-46fc-9009-dd59b7bbc714-1788547623536"
+        },
+        {
+          "url": "https://res.cloudinary.com/dfdfm27wv/image/upload/v1788547625/catalogo-productos/3105c3a3-e5bb-4908-9c33-60bbdcc90ab1-1788547625033.jpg",
+          "publicId": "catalogo-productos/3105c3a3-e5bb-4908-9c33-60bbdcc90ab1-1788547625033"
+        }
+      ],
+      "activo": true,
+      "fechaCreacion": "2026-09-04T18:47:06.680Z"
+    },
+    {
       "id": "9b0658f2-6caf-4587-a087-444b760bf84d",
       "nombre": "Diésel",
       "descripcion": "",
